@@ -21,18 +21,18 @@ const Contact = () => {
 
                         <div className='flex mt-10 items-center gap-7'>
                             <div className='bg-gray-800/40 p-3 rounded-lg'>
-                                <h3 className='md:text-4xl text-2xl font-semibold text-white'>11 <span>+</span></h3>
+                                <h3 className='md:text-4xl text-2xl font-semibold text-white'>5 <span>+</span></h3>
                                 <p className='text-xs md:text-base'><span>Projects</span></p>
                             </div>
 
                             <div className='bg-gray-800/40 p-3 rounded-lg'>
-                                <h3 className='md:text-4xl text-2xl font-semibold text-white'>5 <span>+</span></h3>
+                                <h3 className='md:text-4xl text-2xl font-semibold text-white'>2 <span>+</span></h3>
                                 <p className='text-xs md:text-base'><span>years of exp.</span></p>
                             </div>
 
                             <div className='bg-gray-800/40 p-3 rounded-lg'>
-                                <h3 className='md:text-4xl text-2xl font-semibold text-white'>30 <span>+</span></h3>
-                                <p className='text-xs md:text-base'><span>happy clients</span></p>
+                                <h3 className='md:text-4xl text-2xl font-semibold text-white'>50 <span>+</span></h3>
+                                <p className='text-xs md:text-base'><span>friends like</span></p>
                             </div>
 
 
