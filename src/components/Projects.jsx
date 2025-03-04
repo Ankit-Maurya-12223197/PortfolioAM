@@ -13,7 +13,7 @@ const projects = [
         title: "JalJeewan - A water selling website",
         description: "Customer can order water for different-different purpose",
         link: {
-            site: "water-selling-system-na53bae05-ankit-maurya-12223197s-projects.vercel.app",
+            site: "https://water-selling-system-na53bae05-ankit-maurya-12223197s-projects.vercel.app/",
             github: "https://github.com/Ankit-Maurya-12223197/waterSellingSystem",
         },
     },
@@ -31,7 +31,7 @@ const projects = [
         title: "TravelX",
         description: "One platform for booking every kinds of trip",
         link: {
-            site: "travelling-web-kappa.vercel.app",
+            site: "https://travelling-web-kappa.vercel.app/index.html",
             github: "https://github.com/Ankit-Maurya-12223197/TravellingWeb",
         },
     },
