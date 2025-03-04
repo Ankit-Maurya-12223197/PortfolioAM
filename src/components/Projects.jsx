@@ -1,6 +1,8 @@
 import React from 'react'
 //import all the images related project
 import project1 from '../assets/project1.png'
+import project2 from '../assets/project2.png'
+import project3 from '../assets/project3.png'
 import { AiFillGithub } from 'react-icons/ai'
 import Reveal from './Reveal'
 
@@ -8,29 +10,29 @@ import Reveal from './Reveal'
 const projects = [
     {
         img: project1,
-        title: "Project #1",
-        description: "UI for frontend development using React",
+        title: "JalJeewan - A water selling website",
+        description: "Customer can order water for different-different purpose",
         link: {
             site: "water-selling-system-na53bae05-ankit-maurya-12223197s-projects.vercel.app",
             github: "https://github.com/Ankit-Maurya-12223197/waterSellingSystem",
         },
     },
     {
-        img: project1,
-        title: "Project #1",
-        description: "UI for frontend development using React",
+        img: project2,
+        title: "CloudPoint - A weather App",
+        description: "Gives Weather information based on enterd place name",
         link: {
             site: "#",
-            github: "#",
+            github: "https://github.com/Ankit-Maurya-12223197/CloudPoint-WeatherApp",
         },
     },
     {
-        img: project1,
-        title: "Project #1",
-        description: "UI for frontend development using React",
+        img: project3,
+        title: "TravelX",
+        description: "One platform for booking every kinds of trip",
         link: {
-            site: "#",
-            github: "#",
+            site: "travelling-web-kappa.vercel.app",
+            github: "https://github.com/Ankit-Maurya-12223197/TravellingWeb",
         },
     },
 ]
