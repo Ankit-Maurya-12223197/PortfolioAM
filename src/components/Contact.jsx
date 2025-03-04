@@ -12,10 +12,11 @@ const Contact = () => {
                         <div className='text-gray-300 my-3'>
                             <h3 className='text-xl font-semibold mb-5'>About <span>Me</span></h3>
                             <p className='text-justify leading-7 w-11/12 mx-auto'>
-                                Lorem ipsum dolor sit amet consectetur adipisicing
-                                elit. Nemo porro illum inventore dolor harum illo
-                                reiciendis ipsam. Dicta nesciunt eaque quaerat,
-                                unde magni nobis a neque! Ab debitis natus aliquam.
+                                Detail-Oriented and Ambitious engineering student
+                                with a passion for obtaining accurate results and
+                                for working on a team. Seeking an entry level position
+                                in the IT Industry to pursue a career as a Web
+                                Developer & work on my skill set.
                             </p>
                         </div>
 
