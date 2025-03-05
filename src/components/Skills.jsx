@@ -32,7 +32,7 @@ const Skills = () => {
       <Reveal>
         <h2 className=' font-bold mb-4 text-center'>Skills</h2>
         <p className='text-center mb-8'>
-          I worked on various frontend and fullstack projects. Check them <a href='https://github.com/Ankit-Maurya-12223197' className='underline text-blue-500'>there</a>.
+          I worked on various frontend and fullstack projects. Check them <a href='https://github.com/Ankit-Maurya-12223197' target='_blank' className='underline text-blue-500'>there</a>.
         </p>
 
         <div className=' flex flex-col md:flex-row justify-center space-y-8 md:space-y-0 md:space-x-8 max-w-[1000px] mx-auto'>
